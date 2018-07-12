@@ -24,5 +24,5 @@ lowercase.toLowerCase() === lowercase
 //} else if (dog === "thirsty") {
   //console.log("Refilling water bowl.")
 //} else {
-  console.log("Reading newspaper.")
+  //console.log("Reading newspaper.")
 //}
