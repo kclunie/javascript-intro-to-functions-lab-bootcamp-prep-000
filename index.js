@@ -16,7 +16,12 @@ function sayHiToGrandma(string) {
  return "I can't hear you!"
     
   }
+    if (string === string.toUpperCase()){
+ return "I can't hear you!"
+  
 }
+
+
 //lowercase.toLowerCase() === lowercase
 //}
 //var dog = "thirsty"
