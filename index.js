@@ -10,10 +10,11 @@ function logShout(string) {
 function logWhisper(string) {
  console.log("hello")
 }
+var lowercase = 'hello'
 function sayHiToGrandma(string) {
   if (string === lowercase)
  return string()
-var lowercase = 'hello'
+ 
 //lowercase.toLowerCase() === lowercase
 }
 //var dog = "thirsty"
