@@ -14,9 +14,9 @@ var lowercase = 'hello'
 function sayHiToGrandma(string) {
   if (string === lowercase)
  return string()
- 
-lowercase.toLowerCase() === lowercase
 }
+//lowercase.toLowerCase() === lowercase
+//}
 //var dog = "thirsty"
  
 //if (dog === "hungry") {
